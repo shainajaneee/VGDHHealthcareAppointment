@@ -21,7 +21,7 @@ A modern, clean, and clinical web-based appointment system for **VGDH Healthcare
 
 ## 🚀 Installation & Setup
 1. Clone the repository: `git clone https://github.com/shainajaneee/VGDHHealthcareAppointment.git`
-2. Import the `vgdh_db.sql` file into your MySQL database.
+2. Import the `hospital.sql` file into your MySQL database.
 3. Configure your database credentials in `db.php`.
 4. Run via XAMPP/WAMP or upload the `htdocs` content to your host.
 
